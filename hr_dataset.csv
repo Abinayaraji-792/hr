@@ -1,0 +1,501 @@
+Age,Department,Salary,YearsAtCompany,JobSatisfaction,WorkLifeBalance,OverTime,Education,Attrition
+59,R&D,135292,1,2,2,No,PhD,No
+49,R&D,146714,8,2,3,Yes,High School,No
+35,HR,77362,25,4,3,No,Master's,No
+28,HR,50128,1,3,4,No,PhD,Yes
+41,Operations,141281,20,3,2,Yes,PhD,Yes
+59,Marketing,89383,8,1,2,Yes,High School,Yes
+39,Operations,95545,8,4,2,No,PhD,Yes
+43,HR,112180,7,4,2,No,High School,No
+31,R&D,117958,16,1,2,Yes,Bachelor's,No
+31,IT,39865,0,4,1,Yes,PhD,Yes
+44,Operations,32219,24,4,3,No,PhD,Yes
+56,R&D,69809,28,2,1,Yes,Bachelor's,No
+44,IT,146748,10,3,2,No,Bachelor's,Yes
+23,IT,35287,7,4,4,No,Bachelor's,Yes
+42,HR,64387,9,2,4,Yes,PhD,Yes
+22,Operations,38512,24,3,2,Yes,Master's,Yes
+44,Finance,31342,6,1,2,Yes,Master's,Yes
+50,Sales,93076,2,2,4,Yes,Master's,Yes
+58,HR,138872,2,2,1,Yes,PhD,No
+22,HR,49216,17,3,1,No,Bachelor's,Yes
+41,Finance,147512,4,1,2,No,PhD,Yes
+53,Sales,146682,11,2,1,Yes,Bachelor's,No
+32,R&D,123070,11,4,4,Yes,PhD,No
+42,Marketing,109767,18,4,1,Yes,PhD,No
+45,Operations,127829,29,4,2,No,Bachelor's,Yes
+47,Marketing,56614,5,1,4,Yes,Master's,No
+48,R&D,66258,1,2,1,Yes,Bachelor's,Yes
+36,HR,123789,11,4,3,No,High School,Yes
+35,Sales,72078,18,1,4,No,High School,Yes
+23,HR,136288,4,4,4,Yes,Bachelor's,No
+57,IT,113524,11,3,3,Yes,PhD,No
+27,HR,126573,26,2,3,Yes,High School,No
+41,HR,42219,26,2,4,No,High School,No
+29,R&D,30235,16,1,3,Yes,PhD,No
+59,R&D,72929,28,1,2,Yes,PhD,Yes
+38,R&D,97444,16,2,2,Yes,Master's,Yes
+24,Marketing,38567,9,4,2,No,PhD,Yes
+45,IT,131834,24,4,4,No,Bachelor's,Yes
+34,R&D,100792,22,3,3,Yes,Bachelor's,No
+29,Sales,95441,16,4,3,Yes,Master's,No
+46,Marketing,114555,14,1,1,No,High School,Yes
+22,Finance,103698,11,1,1,No,High School,No
+40,Sales,147248,29,4,3,No,PhD,No
+48,Operations,35415,15,1,3,No,Bachelor's,Yes
+27,Operations,66159,23,2,3,No,High School,Yes
+28,Sales,73925,18,2,4,No,Master's,No
+55,R&D,35951,7,4,3,No,Master's,No
+34,Finance,117388,20,2,1,No,Bachelor's,Yes
+37,Finance,38007,16,2,4,No,Master's,Yes
+56,Marketing,71832,22,3,3,Yes,Master's,Yes
+24,Finance,88596,4,3,1,Yes,Bachelor's,No
+22,Operations,60523,21,2,4,Yes,PhD,Yes
+26,IT,118861,15,4,3,No,PhD,Yes
+24,R&D,116740,5,3,3,Yes,Master's,No
+49,Finance,45524,7,1,3,No,PhD,No
+38,Marketing,49282,24,1,4,No,PhD,No
+46,Operations,53930,17,1,1,Yes,Master's,No
+54,IT,30077,24,4,1,No,PhD,No
+30,HR,135881,11,2,2,Yes,Master's,Yes
+56,HR,50611,14,1,3,Yes,High School,Yes
+34,IT,46984,26,4,2,Yes,Bachelor's,No
+51,Operations,44060,25,3,2,No,Bachelor's,No
+35,Marketing,112985,8,2,1,Yes,PhD,No
+28,IT,114056,12,3,4,No,PhD,No
+34,R&D,73303,25,4,4,Yes,PhD,No
+43,R&D,89207,14,1,1,Yes,Bachelor's,Yes
+41,HR,105046,9,1,4,Yes,High School,Yes
+36,Finance,59287,15,4,2,No,High School,Yes
+38,Marketing,123709,6,1,3,No,Bachelor's,Yes
+44,HR,69711,16,2,1,No,High School,No
+46,Finance,41954,22,4,3,Yes,Bachelor's,Yes
+45,Finance,103340,25,3,4,Yes,High School,No
+49,R&D,102101,20,4,3,No,Master's,No
+35,Operations,101520,21,2,4,No,Master's,No
+21,Sales,117062,25,2,4,No,Bachelor's,Yes
+45,Operations,132974,6,4,2,No,High School,No
+27,Sales,48574,13,4,4,No,PhD,Yes
+29,IT,39184,14,1,2,No,High School,Yes
+44,R&D,49096,20,2,2,Yes,Master's,No
+21,Finance,97728,6,4,2,No,Master's,No
+28,Marketing,64016,8,4,1,Yes,High School,No
+44,Sales,41246,18,2,1,Yes,High School,Yes
+31,Operations,75558,15,4,4,No,PhD,No
+37,Finance,148721,7,1,2,No,PhD,Yes
+28,Sales,48381,17,2,1,Yes,High School,No
+55,Sales,66455,26,1,2,No,High School,No
+55,Sales,122263,22,1,3,No,High School,Yes
+53,Marketing,34018,28,1,3,Yes,High School,Yes
+25,R&D,41302,17,1,3,Yes,Bachelor's,Yes
+59,Marketing,97506,29,2,4,Yes,High School,Yes
+48,HR,71157,19,1,2,No,PhD,Yes
+27,Finance,84917,6,1,3,Yes,Master's,Yes
+29,R&D,122738,2,4,1,No,Bachelor's,No
+28,R&D,126646,17,2,3,Yes,High School,No
+32,R&D,113122,26,2,3,Yes,Master's,Yes
+54,Operations,54519,9,3,3,Yes,Bachelor's,No
+53,R&D,126809,6,2,4,No,Master's,Yes
+43,Marketing,117487,16,2,1,No,High School,No
+44,R&D,86819,13,3,2,Yes,High School,No
+57,IT,110910,23,2,1,Yes,PhD,Yes
+55,Finance,101324,2,2,2,Yes,High School,Yes
+42,R&D,35408,11,2,4,No,High School,Yes
+47,Finance,89379,27,2,4,Yes,Bachelor's,No
+55,IT,55053,12,3,4,No,PhD,Yes
+21,IT,39446,1,2,4,Yes,Bachelor's,No
+55,Finance,30922,2,2,2,Yes,Master's,Yes
+57,Sales,128723,4,3,3,Yes,High School,No
+34,HR,81356,10,4,2,Yes,Master's,No
+23,Operations,40789,7,1,1,Yes,Bachelor's,Yes
+21,Sales,127720,25,4,4,Yes,High School,No
+25,Sales,96656,22,3,4,No,High School,No
+46,Marketing,74028,22,1,1,Yes,Bachelor's,Yes
+34,Operations,94484,11,3,2,No,Bachelor's,No
+59,Operations,62154,6,3,3,Yes,Bachelor's,Yes
+47,Sales,112870,14,2,3,Yes,Bachelor's,Yes
+29,R&D,32336,23,1,1,No,Bachelor's,Yes
+35,Marketing,133677,16,2,3,Yes,High School,Yes
+35,Marketing,97779,3,1,2,No,Bachelor's,No
+46,IT,49029,28,3,2,No,High School,No
+33,Operations,89201,21,3,1,Yes,High School,No
+52,Sales,62265,24,4,2,No,Bachelor's,Yes
+59,IT,132916,12,1,4,No,Bachelor's,No
+52,Finance,142250,17,2,1,Yes,PhD,No
+24,HR,146553,0,4,2,No,High School,Yes
+50,Marketing,73872,15,4,1,Yes,Bachelor's,Yes
+57,Finance,76197,12,4,3,Yes,Bachelor's,No
+43,Finance,85180,9,2,2,Yes,Bachelor's,Yes
+59,R&D,53710,11,4,4,Yes,PhD,Yes
+35,HR,59486,29,2,2,No,PhD,Yes
+49,Finance,101907,1,4,1,Yes,Master's,Yes
+56,Finance,101895,22,2,1,Yes,High School,No
+33,HR,94435,2,3,2,No,Master's,Yes
+52,HR,70631,9,3,4,Yes,Bachelor's,Yes
+27,Finance,131532,1,3,4,Yes,PhD,Yes
+42,HR,50103,29,3,4,No,PhD,Yes
+48,Finance,94772,26,3,1,No,Master's,Yes
+22,Finance,44382,22,4,2,No,PhD,Yes
+26,R&D,114291,12,4,3,No,Bachelor's,Yes
+48,Sales,131195,12,4,1,No,PhD,Yes
+48,Finance,33756,17,2,4,No,Master's,No
+40,IT,50609,2,2,2,No,Bachelor's,Yes
+50,Marketing,144074,26,2,4,Yes,Master's,No
+31,Operations,46478,6,2,3,No,PhD,Yes
+48,Sales,130978,13,3,4,No,Master's,Yes
+45,Sales,69666,19,3,4,No,Master's,Yes
+59,Sales,105683,28,3,3,Yes,High School,Yes
+53,R&D,129097,29,1,2,Yes,PhD,No
+21,Finance,130420,16,4,1,No,PhD,Yes
+47,R&D,101315,28,2,2,No,Master's,Yes
+33,Finance,107834,29,2,3,No,High School,No
+23,R&D,44153,20,3,4,Yes,PhD,No
+59,R&D,139415,11,2,2,Yes,Bachelor's,Yes
+26,Marketing,106325,24,2,1,No,Master's,No
+28,IT,139701,15,4,3,Yes,PhD,No
+47,R&D,42999,23,3,2,No,Bachelor's,No
+29,Marketing,85318,11,4,1,Yes,PhD,Yes
+57,HR,30814,14,1,3,Yes,Bachelor's,Yes
+53,IT,145033,24,1,1,No,Master's,Yes
+44,R&D,106077,9,1,3,No,PhD,No
+35,Operations,120474,29,3,4,No,PhD,Yes
+52,Sales,32443,24,2,2,No,High School,No
+52,HR,105993,6,3,1,Yes,Master's,Yes
+44,HR,105916,19,3,3,Yes,Bachelor's,Yes
+32,Marketing,103319,4,2,1,Yes,PhD,No
+59,HR,139777,0,4,1,No,PhD,Yes
+22,IT,47368,29,1,2,Yes,Bachelor's,No
+23,R&D,45328,16,4,4,No,Master's,No
+57,R&D,86942,2,1,1,Yes,High School,Yes
+37,Operations,121751,12,3,3,No,High School,No
+22,Sales,129131,13,1,3,No,PhD,Yes
+22,Marketing,57306,23,3,4,Yes,Bachelor's,Yes
+48,Sales,115451,29,4,3,No,PhD,No
+43,HR,69915,17,3,4,No,Bachelor's,Yes
+57,Operations,67219,3,4,3,Yes,High School,No
+52,Sales,110879,17,2,2,No,Master's,Yes
+53,IT,141939,29,2,1,No,Bachelor's,Yes
+21,R&D,94644,4,2,2,No,High School,Yes
+39,HR,90279,24,3,1,Yes,PhD,Yes
+22,Operations,83028,15,2,1,Yes,Bachelor's,Yes
+46,Sales,134263,0,1,1,No,Master's,No
+52,Marketing,30126,20,4,2,Yes,PhD,No
+26,IT,82329,13,4,1,No,PhD,No
+52,IT,57632,14,1,2,No,High School,No
+24,Sales,137099,8,3,4,No,Bachelor's,No
+31,R&D,95310,14,3,3,No,PhD,No
+37,Sales,139945,16,4,3,No,Master's,Yes
+58,HR,85176,24,2,1,Yes,Bachelor's,Yes
+44,Sales,149797,23,3,2,No,Master's,No
+25,IT,116066,3,3,3,Yes,PhD,No
+54,Operations,135500,11,1,2,Yes,Master's,Yes
+26,Sales,74327,26,1,2,No,High School,Yes
+42,R&D,98904,25,2,1,No,Master's,Yes
+31,Operations,33797,4,3,3,Yes,Bachelor's,No
+36,Marketing,77882,28,3,1,Yes,Master's,No
+53,Finance,43718,4,1,1,Yes,Master's,No
+29,Sales,64560,10,3,3,No,High School,Yes
+26,R&D,106589,27,4,3,Yes,Master's,Yes
+36,Operations,52116,5,1,4,No,Master's,No
+49,R&D,66244,6,2,4,No,PhD,No
+23,Marketing,131721,23,1,2,No,PhD,Yes
+40,IT,31645,13,3,3,Yes,Bachelor's,Yes
+56,R&D,77523,23,2,4,No,PhD,Yes
+39,Operations,147718,10,1,2,No,PhD,Yes
+46,R&D,49256,29,4,2,No,PhD,No
+23,R&D,131376,12,4,2,No,PhD,Yes
+39,R&D,130158,1,1,4,No,High School,Yes
+40,HR,83173,24,4,3,Yes,PhD,Yes
+52,HR,67430,6,4,1,No,High School,No
+27,IT,69282,19,4,2,No,High School,No
+53,Sales,149719,3,2,4,Yes,PhD,Yes
+59,R&D,93374,26,4,4,No,Master's,Yes
+38,Marketing,98244,7,4,1,Yes,High School,Yes
+21,Sales,41694,19,4,1,No,Master's,No
+31,Marketing,86264,28,2,4,Yes,Master's,No
+48,Sales,105060,21,1,3,Yes,PhD,No
+45,IT,127416,20,3,1,No,Bachelor's,Yes
+43,R&D,87545,18,4,4,No,PhD,No
+51,R&D,148195,12,1,1,No,Bachelor's,Yes
+50,Finance,69224,13,4,3,Yes,Bachelor's,Yes
+55,Marketing,132516,9,2,2,Yes,PhD,Yes
+27,Sales,127945,10,1,1,Yes,PhD,No
+36,Sales,43224,1,2,3,No,Bachelor's,Yes
+46,HR,70738,24,4,4,Yes,PhD,No
+22,Finance,55150,25,4,1,Yes,Bachelor's,No
+21,Operations,93731,8,2,1,No,Master's,Yes
+32,Operations,79688,16,3,4,Yes,PhD,Yes
+25,HR,129929,25,2,2,Yes,Master's,No
+57,HR,138618,2,4,4,No,High School,Yes
+52,HR,103509,23,2,1,Yes,Master's,No
+29,Marketing,38577,5,3,4,No,Master's,Yes
+55,Marketing,38070,4,2,3,No,Bachelor's,No
+39,IT,38666,4,3,4,No,Master's,No
+36,IT,87761,21,3,1,No,PhD,No
+23,HR,66368,14,2,4,No,Bachelor's,No
+40,Finance,36783,22,2,2,Yes,High School,Yes
+44,Sales,141530,16,1,4,Yes,PhD,Yes
+53,Marketing,71914,8,4,2,No,High School,No
+44,Finance,100507,2,3,3,No,Master's,No
+31,R&D,109026,19,1,2,Yes,PhD,Yes
+28,Marketing,145893,25,2,4,No,PhD,Yes
+56,Marketing,141255,16,4,1,No,High School,Yes
+58,IT,140616,28,1,2,No,PhD,Yes
+40,Sales,97526,26,3,3,Yes,PhD,Yes
+55,Sales,100835,9,1,2,Yes,PhD,Yes
+45,Operations,75765,2,3,2,No,Master's,No
+55,Operations,49956,17,2,2,No,High School,Yes
+45,Operations,117895,17,4,3,Yes,PhD,Yes
+49,Operations,76240,29,4,4,Yes,Bachelor's,No
+38,R&D,67148,16,4,2,No,Bachelor's,Yes
+38,R&D,124270,23,2,2,No,Bachelor's,Yes
+22,Marketing,34757,2,3,1,Yes,Bachelor's,Yes
+55,HR,49097,2,2,3,Yes,Master's,Yes
+36,IT,40395,5,4,2,Yes,PhD,Yes
+56,IT,46241,12,2,3,No,High School,No
+53,Operations,133892,23,2,2,Yes,PhD,Yes
+24,Marketing,57696,28,2,4,No,Master's,No
+53,Finance,145654,14,3,4,Yes,Bachelor's,No
+34,HR,100480,24,1,2,Yes,Master's,Yes
+41,Marketing,76163,8,1,4,Yes,PhD,No
+40,HR,49816,3,2,2,Yes,High School,Yes
+28,HR,79840,13,1,4,No,Master's,No
+27,HR,132547,4,1,1,No,High School,No
+23,Marketing,82853,1,2,1,Yes,Master's,Yes
+37,Operations,54917,10,2,1,No,High School,Yes
+53,IT,126731,8,4,3,Yes,High School,Yes
+32,IT,51566,23,1,3,Yes,Bachelor's,Yes
+42,Operations,105452,2,3,1,Yes,High School,Yes
+42,HR,92823,26,2,3,Yes,Bachelor's,No
+50,Finance,50806,27,4,4,No,PhD,No
+58,Sales,105520,28,3,2,Yes,PhD,No
+58,Marketing,31759,8,1,2,Yes,Bachelor's,No
+28,Sales,71949,2,4,2,No,Bachelor's,No
+47,Operations,122374,24,2,1,Yes,Master's,No
+47,Finance,32482,1,3,3,Yes,Master's,No
+54,Marketing,54442,11,2,4,Yes,Master's,Yes
+41,Operations,63719,9,1,4,No,PhD,Yes
+50,HR,88066,8,3,1,Yes,Master's,No
+53,IT,123501,14,1,4,No,High School,No
+48,Sales,32079,7,1,4,Yes,High School,Yes
+53,R&D,32717,24,4,4,Yes,Master's,Yes
+25,R&D,89676,4,2,4,No,High School,Yes
+39,Finance,57952,10,3,3,Yes,PhD,Yes
+24,HR,116444,26,1,4,Yes,High School,No
+55,Sales,72460,1,1,2,No,PhD,Yes
+37,HR,120397,23,3,1,No,Bachelor's,No
+48,Sales,102847,27,1,3,No,Bachelor's,No
+50,Finance,123607,14,4,4,No,Bachelor's,No
+49,Finance,119106,5,4,3,No,Bachelor's,Yes
+26,R&D,48449,7,4,4,Yes,High School,Yes
+55,HR,63536,26,4,2,No,Master's,No
+57,Marketing,94077,4,1,1,Yes,High School,No
+44,R&D,68258,15,3,4,Yes,PhD,No
+49,HR,78302,25,3,4,Yes,High School,Yes
+51,R&D,58865,17,3,4,No,High School,No
+55,Marketing,36645,5,3,4,No,PhD,Yes
+53,IT,149771,4,2,1,Yes,Bachelor's,No
+41,IT,68000,27,3,1,No,Bachelor's,No
+52,IT,56737,15,2,2,No,Bachelor's,No
+43,IT,41485,12,2,1,No,Master's,Yes
+53,Operations,68565,27,4,4,No,PhD,Yes
+23,Sales,55522,4,2,2,Yes,PhD,No
+38,Operations,149614,12,1,2,Yes,High School,Yes
+45,Operations,95155,16,2,2,No,Master's,No
+51,Operations,85168,17,4,4,Yes,Bachelor's,Yes
+23,IT,82487,7,2,3,No,Master's,Yes
+44,Marketing,42342,12,1,4,No,PhD,Yes
+52,Finance,70806,29,1,1,Yes,PhD,No
+42,Finance,78770,28,1,1,Yes,High School,Yes
+43,Sales,108623,18,4,4,Yes,High School,Yes
+22,IT,133177,25,4,4,No,PhD,No
+47,IT,129785,2,3,2,Yes,Bachelor's,No
+22,IT,105629,23,4,4,No,Bachelor's,No
+46,R&D,82603,7,1,2,Yes,Master's,No
+37,HR,142726,1,1,1,Yes,PhD,Yes
+53,R&D,111974,7,4,2,No,PhD,Yes
+29,HR,135947,26,2,4,No,Bachelor's,Yes
+59,IT,56399,12,4,1,No,Bachelor's,Yes
+49,IT,115382,12,4,3,No,PhD,Yes
+46,R&D,111244,0,1,2,No,High School,No
+55,R&D,139575,5,3,1,No,PhD,Yes
+45,HR,145520,23,1,2,No,PhD,Yes
+44,Finance,140904,18,3,1,No,Bachelor's,Yes
+33,HR,106534,15,1,1,Yes,Bachelor's,No
+27,R&D,85106,7,4,2,No,High School,No
+56,Marketing,142599,27,1,3,No,High School,Yes
+40,R&D,60678,0,1,1,Yes,Master's,No
+21,Marketing,106218,26,1,1,No,PhD,No
+28,Sales,93230,26,4,1,Yes,Bachelor's,No
+36,R&D,144684,15,4,3,Yes,High School,No
+34,Sales,104055,8,4,3,No,Master's,No
+32,Finance,86373,12,4,4,Yes,Master's,No
+43,HR,61480,10,3,2,No,Bachelor's,No
+35,Marketing,115230,12,3,3,Yes,Bachelor's,Yes
+48,HR,98836,24,2,2,Yes,Master's,Yes
+54,Sales,102258,20,4,4,Yes,High School,No
+22,Marketing,69986,9,3,2,No,Master's,Yes
+52,HR,54160,3,1,3,No,PhD,Yes
+43,R&D,115595,26,4,2,Yes,PhD,No
+42,IT,131358,5,2,3,Yes,Bachelor's,Yes
+45,Sales,109111,27,2,2,No,High School,No
+42,HR,94929,6,2,3,No,High School,No
+42,Sales,103506,4,1,3,Yes,PhD,No
+26,Operations,64911,10,3,2,Yes,Master's,Yes
+35,Sales,117127,12,1,4,No,Bachelor's,Yes
+57,Marketing,61821,25,4,1,No,Master's,Yes
+53,Operations,105039,24,2,4,No,Master's,Yes
+28,Marketing,90535,18,1,2,No,Master's,No
+25,IT,143453,22,1,4,No,High School,No
+59,Operations,114458,9,3,3,Yes,PhD,Yes
+24,R&D,42175,9,3,1,No,High School,No
+26,Sales,149235,10,2,2,Yes,PhD,No
+52,HR,84771,20,1,2,No,Bachelor's,Yes
+50,Finance,136660,29,1,2,Yes,Bachelor's,No
+55,Sales,116925,6,3,1,No,Master's,Yes
+36,Sales,143374,17,1,3,No,PhD,No
+33,IT,96358,3,1,2,Yes,PhD,Yes
+50,R&D,47327,1,1,4,Yes,PhD,No
+39,Finance,77057,13,3,2,No,Master's,No
+37,Operations,36150,12,2,2,No,Master's,Yes
+39,Operations,34425,28,4,2,No,Bachelor's,Yes
+48,Operations,46032,11,2,2,No,High School,Yes
+46,Marketing,32198,6,4,3,No,PhD,Yes
+57,Marketing,90500,1,1,4,Yes,PhD,No
+46,HR,83394,12,2,3,Yes,High School,No
+43,Finance,50079,13,4,4,No,PhD,Yes
+29,Operations,66220,26,3,2,Yes,Master's,No
+32,Marketing,71874,16,3,1,Yes,Master's,Yes
+21,HR,43859,8,2,3,Yes,PhD,Yes
+21,R&D,80460,16,2,1,No,Master's,No
+54,HR,61419,7,1,3,Yes,Master's,No
+52,Marketing,148865,1,2,2,No,PhD,Yes
+45,IT,38705,27,1,3,Yes,Bachelor's,Yes
+21,IT,72880,23,1,2,No,High School,Yes
+36,Operations,53236,12,3,3,Yes,Master's,No
+59,IT,117955,2,3,2,No,Bachelor's,No
+25,Operations,115514,15,4,2,No,Master's,No
+42,Operations,133145,5,3,4,Yes,Master's,No
+49,Marketing,45358,18,3,2,No,High School,Yes
+23,IT,129713,29,2,4,No,Master's,Yes
+32,Operations,124914,6,3,2,No,High School,Yes
+46,Finance,132870,9,4,1,No,High School,Yes
+36,R&D,106918,8,2,2,No,High School,Yes
+57,HR,149179,1,4,1,No,Bachelor's,Yes
+42,HR,146243,27,3,1,No,PhD,No
+49,Marketing,44596,27,4,2,No,Bachelor's,No
+34,IT,63572,14,2,1,Yes,PhD,Yes
+48,IT,108757,29,1,4,Yes,PhD,Yes
+25,Operations,31279,4,4,3,No,High School,No
+50,Sales,93197,28,4,2,No,Master's,No
+25,Operations,141496,21,2,1,Yes,High School,No
+32,R&D,92516,3,2,2,Yes,Master's,No
+36,Finance,37083,19,4,4,Yes,PhD,Yes
+46,HR,139397,3,3,2,No,High School,Yes
+46,Operations,47771,17,4,2,Yes,Master's,Yes
+41,Sales,59975,3,2,1,No,Bachelor's,Yes
+59,Sales,75648,26,1,4,No,Master's,Yes
+56,Operations,78285,16,1,3,Yes,High School,No
+53,Marketing,49063,11,3,3,No,Bachelor's,Yes
+50,HR,97642,21,4,1,No,Master's,No
+57,Marketing,120093,16,1,2,No,Master's,Yes
+43,Finance,144390,9,4,1,No,Master's,Yes
+30,Sales,116143,21,2,1,Yes,Master's,Yes
+25,Sales,67599,0,1,1,Yes,Master's,Yes
+56,R&D,81920,21,3,2,No,Bachelor's,Yes
+54,Finance,58529,25,2,4,No,PhD,No
+51,Sales,65954,23,3,1,Yes,Bachelor's,No
+30,Finance,57856,26,2,2,No,Bachelor's,No
+39,HR,32573,17,1,4,Yes,Bachelor's,Yes
+52,IT,108344,17,3,1,No,PhD,Yes
+21,Sales,65367,13,3,3,No,High School,No
+25,R&D,132337,14,2,4,Yes,PhD,Yes
+24,HR,136732,28,3,1,Yes,Bachelor's,Yes
+36,Operations,129608,11,2,4,Yes,Master's,No
+44,Finance,90774,3,2,4,Yes,Master's,Yes
+36,Operations,53752,26,2,4,No,Bachelor's,No
+22,Marketing,85029,2,2,4,Yes,Master's,Yes
+48,HR,47685,19,1,4,No,Bachelor's,No
+52,Operations,81693,28,2,4,Yes,Master's,Yes
+47,Sales,146739,11,4,1,Yes,PhD,Yes
+40,Finance,85961,6,3,3,No,High School,No
+44,IT,136937,28,4,2,Yes,High School,Yes
+32,HR,106908,10,1,4,Yes,PhD,Yes
+55,Sales,104532,0,4,2,Yes,PhD,No
+53,R&D,111994,5,3,1,Yes,Bachelor's,Yes
+53,Marketing,86133,14,4,4,No,Bachelor's,No
+57,Finance,127425,14,1,3,No,Bachelor's,Yes
+32,HR,91268,18,2,2,Yes,Master's,Yes
+23,HR,122201,10,4,4,Yes,Bachelor's,Yes
+21,IT,68243,25,1,1,Yes,PhD,Yes
+53,IT,87384,22,1,3,No,High School,No
+30,R&D,61653,25,3,2,No,Master's,Yes
+49,Marketing,56657,1,3,2,No,Bachelor's,No
+33,R&D,69952,13,4,4,No,Master's,Yes
+32,Sales,52180,1,2,3,Yes,Master's,Yes
+51,Sales,127432,28,1,3,Yes,Bachelor's,Yes
+22,R&D,108411,3,4,3,Yes,Master's,Yes
+55,Marketing,31622,16,1,3,No,High School,No
+43,R&D,78756,2,1,1,Yes,PhD,No
+37,Marketing,70809,12,2,3,No,PhD,No
+46,Marketing,46725,8,2,2,No,High School,No
+28,Operations,91396,6,4,2,Yes,Master's,Yes
+49,Finance,81226,14,2,1,Yes,Bachelor's,No
+46,Marketing,136296,22,2,2,Yes,Master's,No
+30,IT,111182,28,4,2,No,High School,Yes
+46,Marketing,112565,28,2,3,No,Master's,Yes
+54,Marketing,59402,10,3,2,Yes,PhD,Yes
+27,Marketing,34263,19,1,1,Yes,Master's,Yes
+24,Operations,126523,1,1,3,No,High School,No
+31,Operations,76828,14,1,4,Yes,PhD,No
+49,Sales,77924,13,1,3,No,Master's,Yes
+56,Operations,104182,19,4,1,No,Master's,Yes
+45,IT,123065,21,1,3,Yes,PhD,Yes
+41,IT,89052,10,1,3,Yes,Bachelor's,No
+56,Operations,41664,26,1,1,Yes,PhD,No
+30,R&D,65737,2,1,3,Yes,Bachelor's,Yes
+57,Finance,131332,16,3,1,No,High School,Yes
+29,Operations,119563,29,1,1,No,High School,No
+44,Marketing,59373,11,3,4,No,PhD,Yes
+55,HR,147369,23,4,2,Yes,PhD,Yes
+55,Finance,66397,27,2,2,No,High School,No
+56,Finance,116145,28,1,3,Yes,Bachelor's,Yes
+38,IT,131371,20,2,3,Yes,High School,No
+59,Finance,68709,14,2,4,Yes,PhD,Yes
+52,Operations,146074,15,4,4,Yes,High School,Yes
+44,Marketing,91120,4,2,4,Yes,PhD,No
+43,Marketing,49250,26,3,1,Yes,PhD,No
+52,Sales,51172,19,2,4,No,High School,Yes
+57,Marketing,41555,5,2,4,Yes,Bachelor's,No
+32,Marketing,117410,18,2,3,No,Master's,Yes
+33,IT,108617,24,1,4,No,High School,Yes
+43,Marketing,83276,4,1,1,Yes,Master's,No
+45,Sales,87492,2,3,1,Yes,High School,Yes
+55,HR,83002,26,3,3,Yes,Master's,Yes
+50,Operations,119599,0,1,4,No,Bachelor's,No
+37,IT,102355,25,3,4,Yes,Bachelor's,No
+40,HR,121248,27,1,1,No,High School,Yes
+45,IT,54762,5,4,4,Yes,PhD,No
+42,R&D,41046,14,2,4,Yes,Master's,No
+33,Finance,126999,1,2,4,No,PhD,No
+39,R&D,146021,28,3,2,No,PhD,No
+56,Marketing,58769,2,1,3,Yes,PhD,Yes
+32,HR,83302,16,1,2,No,Bachelor's,Yes
+39,Marketing,53150,24,3,3,No,High School,Yes
+32,Finance,98247,23,1,1,No,High School,No
+29,IT,34853,11,4,4,No,Bachelor's,No
+27,Finance,124613,17,2,3,No,Bachelor's,No
+48,Sales,119399,14,3,2,Yes,High School,No
+34,Finance,51792,11,3,4,Yes,PhD,No
+51,Sales,89129,15,1,1,No,Master's,No
+39,Finance,136019,26,3,3,Yes,Master's,No
+36,Operations,104478,7,4,3,Yes,Master's,Yes
+25,Sales,143811,27,1,3,No,PhD,Yes
+55,HR,144130,13,1,4,Yes,High School,No
+32,Marketing,97298,24,1,2,No,Bachelor's,No
+45,Marketing,61987,16,1,2,No,High School,No
+41,R&D,45850,28,4,3,Yes,PhD,Yes
+56,Marketing,42112,20,1,1,No,Bachelor's,Yes
+43,IT,54058,7,3,1,No,PhD,No
+36,Operations,75420,14,4,2,No,Master's,No
+59,Finance,68890,26,2,1,No,Master's,Yes
